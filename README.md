@@ -1,2 +1,4 @@
 # first-repository-demo
-This is my first Repository
+This is my first Git Repository
+<br>
+Aouthor - Muhammad Farooq
