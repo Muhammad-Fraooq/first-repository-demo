@@ -1,4 +1,4 @@
 # first-repository-demo
 This is my first Git Repository
 <br>
-Aouthor - Muhammad Farooq
+Aouthor - Muhammad Farooq(Munsoori)
